@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Ana Beatriz - 17 anos</h1>
+  
+  <h2>🎬  top Filmes</h2>
+  <ul>
+  
+    "Antes do Amanhecer"</li>
+    Díario de uma paixão
+    Como perder um homem em 10 dias 
+  10 coisas que eu odeio em voc
+
+  <h2>🎵 Música</h2>
+  <ul>
+    <li>Escuto música na maior parte do tempo</li>
+    <li>É uma das minhas principais atividades de lazer</li>
+  </ul>
+
+  <h2>📚 Livros</h2>
+  <ul>
+    <li>Ainda não há informações sobre livros preferidos</li>
+    <li>Área para adicionar futuras leituras favoritas</li>
+  </ul>
+
+  <h2>Outros Hobbies</h2>
+  <ul>
+    <li>Pintar quadros (hobby favorito)</li>
+    <li>Jogar videogame com o namorado</li>
+    <li>Viajar com a família</li>
+    <li>Fazer as unhas</li>
+    <li>Comprar roupas e maquiagem</li>
+  </ul>
+
+  <h2>Comida Favorita</h2>
+  <p>🍣 Sushi</p>
+  <script src="script.js"></script>
+</body>
+
+</html>
